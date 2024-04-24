@@ -1,1 +1,0 @@
-# elera-sorteador
